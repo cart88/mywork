@@ -1,0 +1,8 @@
+F:\donet\mywork\WebControl\bin\Debug\WebControl.dll
+F:\donet\mywork\WebControl\bin\Debug\WebControl.pdb
+F:\donet\mywork\WebControl\bin\Debug\Crab_Tools.dll
+F:\donet\mywork\WebControl\bin\Debug\CarlosAg.ExcelXmlWriter.dll
+F:\donet\mywork\WebControl\bin\Debug\Crab_Tools.pdb
+F:\donet\mywork\WebControl\obj\Debug\ResolveAssemblyReference.cache
+F:\donet\mywork\WebControl\obj\Debug\WebControl.dll
+F:\donet\mywork\WebControl\obj\Debug\WebControl.pdb

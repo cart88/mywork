@@ -1,0 +1,10 @@
+F:\donet\mywork\Web.UI\bin\Debug\Web.UI.dll
+F:\donet\mywork\Web.UI\bin\Debug\Web.UI.pdb
+F:\donet\mywork\Web.UI\obj\Debug\ResolveAssemblyReference.cache
+F:\donet\mywork\Web.UI\obj\Debug\Web.UI.dll
+F:\donet\mywork\Web.UI\obj\Debug\Web.UI.pdb
+F:\net\mywork\Web.UI\bin\Debug\Web.UI.dll
+F:\net\mywork\Web.UI\bin\Debug\Web.UI.pdb
+F:\net\mywork\Web.UI\obj\Debug\Test_WebUI.csprojResolveAssemblyReference.cache
+F:\net\mywork\Web.UI\obj\Debug\Web.UI.dll
+F:\net\mywork\Web.UI\obj\Debug\Web.UI.pdb

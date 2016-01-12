@@ -1,0 +1,15 @@
+E:\mywork\Crab_DBUtility\bin\Debug\Crab_DBUtility.dll
+E:\mywork\Crab_DBUtility\bin\Debug\Crab_DBUtility.pdb
+E:\mywork\Crab_DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\mywork\Crab_DBUtility\obj\Debug\Crab_DBUtility.dll
+E:\mywork\Crab_DBUtility\obj\Debug\Crab_DBUtility.pdb
+E:\Crab\Crab_DBUtility\bin\Debug\Crab_DBUtility.dll
+E:\Crab\Crab_DBUtility\bin\Debug\Crab_DBUtility.pdb
+E:\Crab\Crab_DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\Crab\Crab_DBUtility\obj\Debug\Crab_DBUtility.dll
+E:\Crab\Crab_DBUtility\obj\Debug\Crab_DBUtility.pdb
+F:\donet\mywork\Crab_DBUtility\bin\Debug\Crab_DBUtility.dll
+F:\donet\mywork\Crab_DBUtility\bin\Debug\Crab_DBUtility.pdb
+F:\donet\mywork\Crab_DBUtility\obj\Debug\ResolveAssemblyReference.cache
+F:\donet\mywork\Crab_DBUtility\obj\Debug\Crab_DBUtility.dll
+F:\donet\mywork\Crab_DBUtility\obj\Debug\Crab_DBUtility.pdb

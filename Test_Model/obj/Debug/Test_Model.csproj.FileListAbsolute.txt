@@ -1,0 +1,15 @@
+F:\donet\mywork\Crab_Model\bin\Debug\Crab_Model.dll
+F:\donet\mywork\Crab_Model\bin\Debug\Crab_Model.pdb
+F:\donet\mywork\Crab_Model\obj\Debug\ResolveAssemblyReference.cache
+F:\donet\mywork\Crab_Model\obj\Debug\Crab_Model.dll
+F:\donet\mywork\Crab_Model\obj\Debug\Crab_Model.pdb
+F:\donet\mywork\Test_Model\bin\Debug\Crab_Model.dll
+F:\donet\mywork\Test_Model\bin\Debug\Crab_Model.pdb
+F:\donet\mywork\Test_Model\obj\Debug\ResolveAssemblyReference.cache
+F:\donet\mywork\Test_Model\obj\Debug\Crab_Model.dll
+F:\donet\mywork\Test_Model\obj\Debug\Crab_Model.pdb
+F:\net\mywork\Test_Model\bin\Debug\Crab_Model.dll
+F:\net\mywork\Test_Model\bin\Debug\Crab_Model.pdb
+F:\net\mywork\Test_Model\obj\Debug\Test_Model.csprojResolveAssemblyReference.cache
+F:\net\mywork\Test_Model\obj\Debug\Crab_Model.dll
+F:\net\mywork\Test_Model\obj\Debug\Crab_Model.pdb

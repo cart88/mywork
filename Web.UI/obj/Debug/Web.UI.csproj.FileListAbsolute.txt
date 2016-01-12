@@ -1,0 +1,13 @@
+F:\donet\mystudy\Web.UI\bin\Debug\Web.UI.dll
+F:\donet\mystudy\Web.UI\bin\Debug\Web.UI.pdb
+F:\donet\mystudy\Web.UI\obj\Debug\ResolveAssemblyReference.cache
+F:\donet\mystudy\Web.UI\obj\Debug\Web.UI.dll
+F:\donet\mystudy\Web.UI\obj\Debug\Web.UI.pdb
+F:\donet\mywork\Web.UI\bin\Debug\Web.UI.dll
+F:\donet\mywork\Web.UI\bin\Debug\Web.UI.pdb
+F:\donet\mywork\Web.UI\bin\Debug\Crab_Tools.dll
+F:\donet\mywork\Web.UI\bin\Debug\CarlosAg.ExcelXmlWriter.dll
+F:\donet\mywork\Web.UI\bin\Debug\Crab_Tools.pdb
+F:\donet\mywork\Web.UI\obj\Debug\ResolveAssemblyReference.cache
+F:\donet\mywork\Web.UI\obj\Debug\Web.UI.dll
+F:\donet\mywork\Web.UI\obj\Debug\Web.UI.pdb
